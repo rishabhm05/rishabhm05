@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishabhm05
+- 👋 Hi, I’m Rishabh
 - 👀 I’m interested in SoftWare Development
 - 🌱 I’m currently learning MERN Stack
 
