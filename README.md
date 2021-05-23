@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishabhm05
-- 👀 I’m interested in Web and Android Development
+- 👀 I’m interested in SoftWare Development
 - 🌱 I’m currently learning MERN Stack
 
 
